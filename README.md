@@ -1,7 +1,5 @@
 # Quiz App
 
-This was a Codsoft Intern task. The outputs of the task are given below.
-
 ## Outputs
 
 ### Screenshot 1
